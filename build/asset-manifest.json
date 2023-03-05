@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a325d62.css",
+    "main.js": "/static/js/main.0d497535.js",
+    "static/media/worried.png": "/static/media/worried.44df8ac3ac172afac248.png",
+    "static/media/politics.jpg": "/static/media/politics.ac1c384f407e17eb89ae.jpg",
+    "static/media/art.jpg": "/static/media/art.ab01f67d38314c47379d.jpg",
+    "static/media/sports.jpg": "/static/media/sports.cef9242c46643154eb52.jpg",
+    "static/media/child.png": "/static/media/child.c0124a679c5612bf97e7.png",
+    "static/media/economy.jpg": "/static/media/economy.24208f32112ae32a9612.jpg",
+    "static/media/news.png": "/static/media/news.255e3e950a5337dc425e.png",
+    "index.html": "/index.html",
+    "main.6a325d62.css.map": "/static/css/main.6a325d62.css.map",
+    "main.0d497535.js.map": "/static/js/main.0d497535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a325d62.css",
+    "static/js/main.0d497535.js"
+  ]
+}
